@@ -1,0 +1,7 @@
+name: NitroUHC
+main: com.gabrielsimmer.nitroUHC
+version: 1.0
+author: Gabriel Simmer
+commands:
+   uhc:
+      description: Replies with help for NitroUHC plugin.
